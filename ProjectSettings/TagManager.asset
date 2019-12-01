@@ -35,7 +35,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - PostProcessingASCII
   - Composite
   m_SortingLayers:
   - name: Default
